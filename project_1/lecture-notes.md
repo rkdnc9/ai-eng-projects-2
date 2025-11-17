@@ -2,7 +2,7 @@
 
 ## Overview
 
-This lecture provides an in-depth examination of Large Language Models (LLMs), covering their foundational principles, architectural design, complete training methodologies (pre-training and post-training), text generation mechanisms, and practical deployment considerations. The content addresses theoretical concepts, real-world implementation challenges, specific datasets, and critical insights for understanding how modern LLMs function in production environments.
+This lecture notes provides an in-depth examination of Large Language Models (LLMs), covering their foundational principles, architectural design, complete training methodologies (pre-training and post-training), text generation mechanisms, and practical deployment considerations. The content addresses theoretical concepts, real-world implementation challenges, specific datasets, and critical insights for understanding how modern LLMs function in production environments.
 
 ***
 
