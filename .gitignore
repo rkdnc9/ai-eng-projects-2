@@ -26,3 +26,9 @@ venv/
 
 # OS / Misc
 Thumbs.db
+
+# Project material
+material/
+
+# System prompts and personal configuration
+CLAUDE.md
