@@ -276,13 +276,18 @@ graph TD
 
 * **Principle**: Model capabilities scale with parameter count
 
-* **Parameter components**:
+**Model Architecture Components:**
+
+* **Hyperparameters** (design choices that determine model size):
 
   * Number of layers (depth)
   * Embedding dimensions (width)
   * Number of attention heads
+  * Feed-forward network dimensions
 
-* **Hyperparameter differences**: Key differences between models lie in hyperparameters like number of layers and vector dimensions
+* **Total parameters**: The resulting count of learnable weights based on these hyperparameters
+
+**Hyperparameter differences**: Key differences between models lie in hyperparameters like number of layers and embedding/vector dimensions
 
 * **Cost-capacity trade-off**:
 
