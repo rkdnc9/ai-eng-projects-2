@@ -36,3 +36,4 @@ CLAUDE.md
 # Conversion scripts
 scripts/
 .claude/settings.local.json
+/project_2/faiss_index
